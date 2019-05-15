@@ -1,0 +1,41 @@
+commit b3f73ec85bcfb199ad45f175070888e9a48edd25
+Author: peterreji94 <pr14294@gmail.com>
+Date:   Tue May 14 14:35:37 2019 +0000
+
+    added gitignore again
+
+commit ece40b90f64dc5f7e7b61efd399f98198e8cd391
+Author: peterreji94 <pr14294@gmail.com>
+Date:   Tue May 14 14:32:23 2019 +0000
+
+    added jake.txt
+
+commit edd51e1d9a4d51d6fbbb6aebc50f8eee3ac36962
+Author: peterreji94 <pr14294@gmail.com>
+Date:   Tue May 14 14:24:39 2019 +0000
+
+    added gitignore
+
+commit 7b1ba31657521f39f941c227fab3fe147737ac3d
+Author: peterreji94 <pr14294@gmail.com>
+Date:   Tue May 14 12:09:57 2019 +0000
+
+    added new file test.txt
+
+commit 44b4a7ead8574ec85bab119f7fc59709a9ba8381
+Author: peterreji94 <pr14294@gmail.com>
+Date:   Tue May 14 11:25:11 2019 +0000
+
+    added readme.txt
+
+commit 18172e6c95c6b5bd90d01c42006e57b4a43e27ad
+Author: peterreji94 <pr14294@gmail.com>
+Date:   Tue May 14 10:30:23 2019 +0000
+
+    added two new files
+
+commit a89eaf8b7cff3d3957d2ee2c3bd6a8104b090647
+Author: peterreji94 <pr14294@gmail.com>
+Date:   Tue May 14 10:20:28 2019 +0000
+
+    added new file
